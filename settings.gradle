@@ -1,0 +1,3 @@
+rootProject.name='SmoothHorizontalRecyclerView'
+include ':app'
+include ':smoothrecyclerview'
